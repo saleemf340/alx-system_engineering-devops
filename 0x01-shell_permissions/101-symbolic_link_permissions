@@ -1,2 +1,2 @@
 #!/bin/bash
-chown -dereference vincent | chgrp -dereference staff
+chown -dereference vincent _hello | chgrp -dereference staff _hello
